@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple 8 Puzzle with Facebook SDK</string>
+    <string name="facebook_app_id">227375197594676</string>
+</resources>
